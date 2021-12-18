@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-1", "Koleksiyonlar-Soru-1\Koleksiyonlar-Soru-1.csproj", "{0D43A338-41A1-4369-A76B-527D19D1F190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-2", "Koleksiyonlar-Soru-2\Koleksiyonlar-Soru-2.csproj", "{5FF7DE7C-177C-4854-BCFE-A6D02769A0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar-Soru-3", "Koleksiyonlar-Soru-3\Koleksiyonlar-Soru-3.csproj", "{3B171C22-CBE9-4810-8E4E-255E6768F2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D43A338-41A1-4369-A76B-527D19D1F190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D43A338-41A1-4369-A76B-527D19D1F190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D43A338-41A1-4369-A76B-527D19D1F190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D43A338-41A1-4369-A76B-527D19D1F190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF7DE7C-177C-4854-BCFE-A6D02769A0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF7DE7C-177C-4854-BCFE-A6D02769A0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF7DE7C-177C-4854-BCFE-A6D02769A0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF7DE7C-177C-4854-BCFE-A6D02769A0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B171C22-CBE9-4810-8E4E-255E6768F2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B171C22-CBE9-4810-8E4E-255E6768F2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B171C22-CBE9-4810-8E4E-255E6768F2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B171C22-CBE9-4810-8E4E-255E6768F2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
