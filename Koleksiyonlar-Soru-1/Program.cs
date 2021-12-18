@@ -17,16 +17,6 @@ namespace Odev2
             {
                 Console.WriteLine("Enter a number");
                 
-                /*while (!(int.TryParse(input, out int a)))
-                {
-                    Console.WriteLine("Enter a number");
-                    if (a<0)
-                    {
-                        input = "";
-                    }
-                    num = Convert.ToInt32(Console.ReadLine());
-                    
-                }*/
 
                 while (true)
                 {
